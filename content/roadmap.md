@@ -9,8 +9,9 @@ url: "/roadmap/"
 We already started development of OxiPass, but we are still working on it. 
 The following is a list of planned milestones:
 
-- **Developing cross-platform library** (we are here now)
-- **Developing mobile application**
-- **Automating deployment**
-- **Developing desktop application**
-- **Developing sync library**
+- **Designing solution architecture** (done)
+- **Developing cross-platform library** (in development)
+- **Developing mobile application** (planned)
+- **Automating deployment** (planned)
+- **Developing desktop application** (planned)
+- **Developing sync library** (planned)
