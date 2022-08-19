@@ -1,0 +1,11 @@
+{{ partial "header" . }}
+
+<main>
+    <div>
+        <h2>{{ .Title }}</h2>
+        <h5>{{ .Description }}</h5>
+        {{ with .Content }} <div class="homepage-content text-justify">{{ . }}</div> {{ end }}
+    </div>
+</main>
+
+{{ partial "footer" . }}
