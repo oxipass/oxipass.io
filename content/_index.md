@@ -11,7 +11,8 @@ sensitive information (like passwords, credit cards, pin codes, blockchain walle
 Privacy is our highest priority, that's why this app is fully offline solution. Your
 information stored only in your local computer or smartphone, not any bit of information is transferred
 to any server or cloud service. Moreover, 
-your data is encrypted with AES-256 algorithm and protected against physical attacks
+your data is encrypted with AES-256 or any other algorithm supported by 
+the library OxiCrypt and protected against physical attacks
 as there is no server or cloud to hack your data.
 
 #### **Features**
