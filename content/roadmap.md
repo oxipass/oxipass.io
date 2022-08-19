@@ -11,4 +11,6 @@ The following is a list of planned milestones:
 
 - **Developing cross-platform library** (we are here now)
 - **Developing mobile application**
+- **Automating deployment**
 - **Developing desktop application**
+- **Developing sync library**
