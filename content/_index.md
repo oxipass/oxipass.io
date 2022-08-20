@@ -17,43 +17,54 @@ as there is no server or cloud to hack your data.
 
 #### **Features**
 
-- **Strong security**
-- **Offline**
-- **Flexible**
-- **Easy to use**
-- **No server or cloud service is used**
-- **No ads or analytics**
-- **No registration**
-- **Adjustable user interface**
-- **Reliable backup**
+- Strong security with multiple encryption algorithms
+- Offline local storage
+- Flexible customizable data structure
+- No servers or cloud services, no data transmission
+- No ads or analytics
+- No registration required
+- Adjustable user interface
+- Reliable automatic local backups
 
-#### **Our goal**
+#### **Goal**
 
-Our amin goal is to provide you with the best password manager available. It should be an open sourced,
-easy to use, secure, fast and compatible with all platforms (we support Windows, Linux, MacOS, Android and iOS).
-
+The main purpose is simply to provide the best password manager. It should be an open source,
+privacy-preserving, easy to use, secure, flexible, customizable, fast and 
+compatible with all popular platforms.
 
 #### **Technical overview**
 
-The library is written in Go and uses SQLite as a local database. All the data is encrypted 
+The main library is written in Go and uses SQLite as a local database. All the data is encrypted 
 with the algorithm of your choice (implemented by [oxicrypt](https://github.com/oxipass/oxicrypt) ) 
-and easily compilable for any platform.
+and easily compilable for any platform. The library is a core of the solution, it is planned
+to use it in mobile (iOS/Android) and desktop (Mac/Windows/Linux) applications.
 
 #### **The solution repository**
 
-We started developing this password manager as an open source project from the very beginning, check our
-GitHub repository: [github.com/oxipass](https://github.com/oxipass)
-
+We started developing this password manager as an open source project from the very beginning, 
+check out our GitHub repository: 
+[github.com/oxipass](https://github.com/oxipass)
 
 #### **Advantages compared to other password managers**
 
-- a single library with no dependencies
-- open source project, anybody can contribute and check the code
-- no registration required
-- no ads or analytics
-- no server or cloud service is used to store your data
+We are going to provide the password manager that has the highest level of security and privacy.
+Here is why our app will beat most other password managers:
+
+- flexible customizable data structure and user interface (custom items and fields)
+- simple technical solution with a single library with no dependencies (except SQLite)
+- open source project, anybody can contribute, check the code or use in your own projects
+- no registration required, no server or cloud service is used to store the data
 - support for any encryption algorithm implemented by [oxicrypt](https://github.com/oxipass/oxicrypt)
-- flexible user interface with supported custom items and fields
+- no ads, no analytics, no statistics collection
+
+#### **Support the project**
+
+We are working hard to provide the best ever password manager. If you like the project and want to help, 
+consider spreading the word using social media or sending us a message.
+You can find our Twitter, Telegram, Discord and Github accounts in the top menu of the website.
+
+Thanks! 
+
 
 
 
