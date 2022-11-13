@@ -12,7 +12,7 @@ googleAnalytics = ""
     accent = "#2f3584"
     showBorder = true
     backgroundColor = "white"
-    copyright = "[OxiPass](https://oxipass.io) © All rights reserved"
+    copyright = "Powered by [OxiSoft](https://oxisoft.io) © All rights reserved"
 #    font = "Raleway" # should match the name on Google Fonts!
     highlight = false
     canonifyurls = true
@@ -40,7 +40,7 @@ weight = 3
 
 
 [[menu.icon]]
-    url = "https://twitter.com/blackrocketnode"
+    url = "https://twitter.com/oxisoftio"
     name = "fab fa-twitter"
     weight = 3
 
